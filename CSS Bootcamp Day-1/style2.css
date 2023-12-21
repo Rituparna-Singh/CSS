@@ -1,0 +1,41 @@
+.features{
+    border: 2px solid lightgray;
+    margin: 50px auto;
+    height: 670px;
+    width: 500px;
+    border-radius: 16px;
+}
+.bttn{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid lightgray;
+    background-color: white;
+    color: royalblue;
+    padding: 15px 45px;
+    border-radius: 10px;
+    margin: 5px 20px;
+}
+.photo{
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+p{
+    color: grey;
+    font-size: 20px;
+    padding: 20px;
+}
+h2{
+    padding: 20px;
+}
+.lock{
+    width: 20px;
+    margin: 20px;
+}
+.plan{
+    padding-left: 45px;
+    margin-top: -44px;
+    color: grey;
+    font-size: 17px;
+}

@@ -1,0 +1,29 @@
+.profile{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px auto;
+    border: 2px solid lightgrey;
+    border-radius: 16px;
+    width: 500px;
+    height: 450px;
+}
+h1{
+    padding: 20px;
+    color: black;
+}
+p{
+    padding: 20px;
+    color: grey;
+    font-size: 20px;
+}
+img{
+    width: 70px;
+    border-radius: 50%;
+    margin: 20px 60px;
+}
+.blue{
+    font-size: 17px;
+    text-decoration: none;
+    color: royalblue;
+    font-weight: 500;
+    padding: 10px 40px;
+}
